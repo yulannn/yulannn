@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Yulan<br><br>French dev<br><br>* 🌍  I'm based in Aix-en-provence<br>* 🧠  I'm learning react / flutter<br>* ⚡  B1 info<br>* 🧑🏼‍💻 Working for Kidyfood and school circle
+Hi 👋 My name is Yulan<br><br>French <br><br>* 🌍  I'm based in Aix-en-provence<br>* 🧠  I'm learning react / flutter<br>* ⚡  B1 info<br>* 🧑🏼‍💻 Working for Kidyfood and school circle
 
 
 ## 🌐 Socials:
