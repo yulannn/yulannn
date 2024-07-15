@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for Chef Coco<br>🌱 I’m currently learning Solidity<br>
+🔭 I’m currently working for Tortue Lodge<br>🌱 I’m currently learning Tailwind<br>
 
 
 ## 🌐 Socials:
