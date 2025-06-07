@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for Tortue Lodge<br>🌱 I’m currently learning C# <br>
+🔭 I’m currently working for Tortue Lodge<br>🌱 I’m currently learning C# .Net <br>
 
 
 ## 🌐 Socials:
