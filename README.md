@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working for Tortue Lodge<br>🌱 I’m currently learning C# .Net <br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yulan_nguyen) 
 
